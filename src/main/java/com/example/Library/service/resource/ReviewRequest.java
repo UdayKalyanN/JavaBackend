@@ -27,6 +27,7 @@ public class ReviewRequest {
 
     public Review toReview(){
 
+
         return Review.builder().comment(this.comment).rating(this.rating)
                 .book(Book.builder().Id(this.bookId).build()).build();
     }
