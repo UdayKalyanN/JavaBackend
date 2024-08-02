@@ -26,6 +26,3 @@ This Library Management System is a Java-based application designed to efficient
 - JDK 8 or higher
 - Maven 3.6 or higher
 - MySQL 5.7 or higher
-
-### Installation
-1. Clone the repository:
